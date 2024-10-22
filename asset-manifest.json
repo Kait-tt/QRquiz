@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/QRquiz/static/css/main.f855e6bc.css",
-    "main.js": "/QRquiz/static/js/main.94b1b6b4.js",
+    "main.js": "/QRquiz/static/js/main.397eddf1.js",
     "static/js/453.da9934b2.chunk.js": "/QRquiz/static/js/453.da9934b2.chunk.js",
     "index.html": "/QRquiz/index.html",
     "main.f855e6bc.css.map": "/QRquiz/static/css/main.f855e6bc.css.map",
-    "main.94b1b6b4.js.map": "/QRquiz/static/js/main.94b1b6b4.js.map",
+    "main.397eddf1.js.map": "/QRquiz/static/js/main.397eddf1.js.map",
     "453.da9934b2.chunk.js.map": "/QRquiz/static/js/453.da9934b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.94b1b6b4.js"
+    "static/js/main.397eddf1.js"
   ]
 }
